@@ -1,0 +1,11 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "interview pair programming",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "author": "edward.zhou",
+  "license": "ISC"
+}
